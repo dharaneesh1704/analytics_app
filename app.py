@@ -6,7 +6,7 @@ import os
 import plotly.express as px
 
 # Title and Description
-st.title("Enhanced Data Analytics App")
+st.title("Data Analytics App")
 st.write("Upload a CSV file, analyze it with Sweetviz, and explore key insights directly in the app!")
 
 # File Upload
