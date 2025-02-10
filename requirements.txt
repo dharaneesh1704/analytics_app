@@ -1,4 +1,4 @@
-numpy==1.23.5
+numpy>=2.0.0
 pandas
 streamlit
 scikit-learn
@@ -7,3 +7,4 @@ seaborn
 requests
 beautifulsoup4
 plotly
+ydata-profiling
