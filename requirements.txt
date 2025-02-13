@@ -1,5 +1,6 @@
+ydata-profiling
+setuptools
 pandas
 numpy
 streamlit
-ydata-profiling
 streamlit-pandas-profiling
